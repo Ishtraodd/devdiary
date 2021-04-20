@@ -3,12 +3,10 @@
   box-sizing: border-box;
 }
 
-.body{
-  font-family: 'Barlow Condensed', sans-serif;
-}
-
 .body_title{
   text-align: center;
+  margin-top: 50px;
+
 }
 
 .body_title a{
@@ -25,3 +23,10 @@
   font-size: 30px;
 
 }   
+
+.body_blog_section{
+  font-family: 'Barlow Condensed', sans-serif;
+  margin-top: 100px;
+  margin-left: 20%;
+  margin-right: 20%;
+}
