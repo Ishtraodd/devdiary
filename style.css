@@ -1,31 +1,35 @@
+  
+<!DOCTYPE html>
+<html lang="en">
+  
 * {
-<<<<<<< Updated upstream
-    box-sizing: border-box;
-  }
-
-.header_title{
-    font-family: 'Berkshire Swash', cursive;
-}
-
-.header_subtitle{
-    font-family: 'Truculenta', sans-serif;
-}   
-
-.body{
-    font-family: 'Barlow Condensed', sans-serif;
-=======
   box-sizing: border-box;
 }
 
-.header_title{
-  font-family: 'Berkshire Swash', cursive;
+.body_title{
+  text-align: center;
+  margin-top: 50px;
+
 }
 
-.header_subtitle{
-  font-family: 'Truculenta', sans-serif;
+.body_title a{
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 100px;
+}
+
+.body_subtitle{
+  text-align: center;
 }   
 
-.body{
+.body_subtitle a{
+  font-family: 'Truculenta', sans-serif;
+  font-size: 30px;
+
+}   
+
+.body_blog_section{
   font-family: 'Barlow Condensed', sans-serif;
->>>>>>> Stashed changes
+  margin-top: 100px;
+  margin-left: 20%;
+  margin-right: 20%;
 }
