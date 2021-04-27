@@ -16,6 +16,7 @@
 
 .body_subtitle{
   text-align: center;
+  margin-bottom: 30px;
 }   
 
 .body_subtitle a{
@@ -39,3 +40,13 @@
 hr .solid{
   border-top: 3px solid #bbb;
 }
+
+.search_menu_article{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Barlow Condensed', sans-serif;
+} 
+
